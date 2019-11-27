@@ -1,0 +1,6 @@
+H:\0\Console Network\Network\Network\bin\Debug\Network.exe.config
+H:\0\Console Network\Network\Network\bin\Debug\Network.exe
+H:\0\Console Network\Network\Network\bin\Debug\Network.pdb
+H:\0\Console Network\Network\Network\obj\Debug\Network.csprojAssemblyReference.cache
+H:\0\Console Network\Network\Network\obj\Debug\Network.exe
+H:\0\Console Network\Network\Network\obj\Debug\Network.pdb
